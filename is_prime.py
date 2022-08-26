@@ -8,4 +8,4 @@ def func_1(n):
              if(n % x==0):
                   return False
         return True
-print(func_1(7))
+print(func_1(5))
